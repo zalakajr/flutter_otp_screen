@@ -2,7 +2,11 @@ HEAD
 # flutter_otp_screen
 A Flutter project for OTP input with emoji feedback and animated validation effects.
 
-# do_app
+# Dependencies used are 
+Device_preview and pin_code_fields
+
+#Make sure to run flutter pub add before running the project
+#Also the device preview is not really necessary so you can remove the dependency and remove the method and library from the main file
 
 A new Flutter project.
 
